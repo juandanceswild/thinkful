@@ -1,6 +1,6 @@
 thinkful-learning
 =================
 
-### Nandan
+### Juan
 
-Branch: `student/nandan`
+Branch: `student/juan-cortes`
