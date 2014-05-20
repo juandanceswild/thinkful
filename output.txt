@@ -1,0 +1,75 @@
+commit 4ccdf79671875bebaf78a378cd7a128a454b7d14
+Author: juandanceswild <juancoob@gmail.com>
+Date:   Tue May 20 08:16:39 2014 -0400
+
+    added semicolon to style.css
+
+commit 9e6a651700d564ba2db0fb14933e896ec62ab6a9
+Author: Cameron J Roe <cameronjroe@gmail.com>
+Date:   Mon May 19 21:23:50 2014 -0400
+
+    Delete .DS_Store
+    
+    You'll need to always add these to your .gitignore which will tell git to ignore these files.
+
+commit e33e6131b0d8f57ae7a037b2ac19de5cd22bdf0a
+Merge: f1e22b4 24ac05e
+Author: juandanceswild <juancoob@gmail.com>
+Date:   Mon May 19 20:23:59 2014 -0400
+
+    Merge branch 'student/juan-cortes' of https://github.com/cameronjroe/thinkful-learning
+
+commit f1e22b4a8d7aed27d9818a795cabbbb120417b1c
+Merge: 3fa42f0 0497860
+Author: juandanceswild <juancoob@gmail.com>
+Date:   Fri May 16 18:58:34 2014 -0400
+
+    Merge branch 'master' of https://github.com/juandanceswild/thinkful
+
+commit 0497860b89d155251d29e1df17e1e3d1899d8a48
+Author: juandanceswild <juancoob@gmail.com>
+Date:   Fri May 16 15:50:31 2014 -0700
+
+    Initial commit
+
+commit 3fa42f0ada412c5079943801a04597c24497d557
+Author: juandanceswild <juancoob@gmail.com>
+Date:   Fri May 16 18:36:27 2014 -0400
+
+    add
+
+commit dc1669b463db9650137f5a0615cf67842d2a75f2
+Author: juandanceswild <juancoob@gmail.com>
+Date:   Fri May 16 18:23:28 2014 -0400
+
+    initial commit of smallbusiness website for Thinkful
+
+commit 24ac05e3ec99e768614e8bdf9b2f484ab01c1bb3
+Author: Cameron J Roe <cameronjroe@gmail.com>
+Date:   Thu May 15 23:12:56 2014 -0400
+
+    rm readme
+
+commit 3242933a5d603323c7625c8d3a41c465c8a6fe55
+Author: Cameron J Roe <cameronjroe@gmail.com>
+Date:   Thu May 15 23:12:02 2014 -0400
+
+    update readme
+
+commit 50942a1997671e242aee5f3ab186e07679222607
+Author: Cameron J Roe <cameronjroe@gmail.com>
+Date:   Tue May 13 22:11:33 2014 -0400
+
+    juan cortes
+
+commit dcebc1a64d218ae2393f0d89430fab5a3d9b710b
+Author: Cameron J Roe <cameronjroe@gmail.com>
+Date:   Tue May 13 09:12:06 2014 -0400
+
+    update readme
+
+commit 40ec13ff7eee5923f3cfab28d71195df43d84f78
+Author: Cameron J Roe <cameronjroe@gmail.com>
+Date:   Tue May 13 06:00:37 2014 -0700
+
+    Initial commit
