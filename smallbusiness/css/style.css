@@ -116,6 +116,6 @@ footer p, footer a{
 .sampleimg:hover .fade { 
 	visibility: visible; 
 	opacity: 0.9; 
-	cursor: url('more.cur'), crosshair;
-	cursor: url('more.png') 40 40, crosshair;
+	cursor: url('../img/more.cur'), crosshair;
+	cursor: url('../img/more.png') 40 40, crosshair;
 }
