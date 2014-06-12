@@ -2,9 +2,29 @@
 /*FOR BODY font-family: poiret-one, sans-serif;*/
 
 @media (max-width: 992px) {
-    #intro h1 {
+    #intro h2 {
     	font-size:30px!important;
     }
+     #intro h1 {
+    	font-size:20px!important;
+    }
+    .fade { opacity: 0.8!important; visibility: visible!important; -webkit-transition: visibility 0.4s linear, opacity 0.4s linear; -moz-transition: visibility 0.4s linear, opacity 0.4s linear; -o-transition: visibility 0.4s linear, opacity 0.4s linear; }
+    .sample-overlay p{
+	    opacity: 1!important;
+		color: black!important;
+		font-weight: bold!important;
+		margin-right: 10px;
+		margin-left: 10px;
+		font-size: 25px!important;
+		padding: 20px!important;
+		margin: 0!important;
+		position: absolute;
+		bottom: 0;
+		background-color: #ff534b;
+		}
+	.sample-overlay {
+	background-color: transparent!important;
+	}
 }
 
 
@@ -24,14 +44,21 @@ img {
 
 #intro {
 	width: 70%;
-	margin:12% auto 0 auto;
+	margin: 4% auto 0 auto;
 }
 
-#intro h1{
+#intro h2{
 	font-family: paytone-one, sans-serif;
 	color:#fff;
 	font-size:50px;
 	line-height: 60px;
+}
+
+#title {
+	font-family: paytone-one, sans-serif;
+	color: #021542;
+	font-size:90px;
+	line-height: 1.8;
 }
 
 #samples {

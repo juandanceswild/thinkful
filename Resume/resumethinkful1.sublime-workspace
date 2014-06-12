@@ -1,0 +1,885 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"it",
+				"italic"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"co",
+				"contentsection"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"service",
+				"servicesbannertext"
+			],
+			[
+				"serv",
+				"servicesbannertext"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"boder-",
+				"border-bottom"
+			],
+			[
+				"portbanner",
+				"portbannertext"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"bo",
+				"bold"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"catego",
+				"menu-categories"
+			],
+			[
+				"FFF",
+				"FFFFFF"
+			],
+			[
+				"menu-it",
+				"menu-item-819"
+			],
+			[
+				"FF",
+				"FFFFFF"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"n",
+				"transparent"
+			],
+			[
+				"ad",
+				"address"
+			],
+			[
+				"data",
+				"data-longitude"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"plae",
+				"placesArray"
+			],
+			[
+				"lon",
+				"longitude"
+			],
+			[
+				"la",
+				"latitude"
+			],
+			[
+				"new",
+				"newfeature"
+			],
+			[
+				"add",
+				"add_feature"
+			],
+			[
+				"marker",
+				"markerLayer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 223.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Juan Sebastian/Dropbox (Drive Digital)/Public/Thinkful/Resume/index.html",
+		"/C/Users/Juan Sebastian/Dropbox (Drive Digital)/Public/Thinkful/Resume/styles.css",
+		"/C/Users/Juan Sebastian/Documents/Orly homework/things i can do",
+		"/C/Users/Juan Sebastian/Documents/MY website/prototype1/960.css",
+		"/C/Users/Juan Sebastian/Desktop/real_estate_media_agency.html",
+		"/C/Users/Juan Sebastian/Desktop/.htaccess",
+		"/C/xampp/htdocs/wordpress_second/wp-content/themes/yoo_moustache/less-custom/customizer.json",
+		"/C/xampp/htdocs/wordpress_second/wp-content/themes/yoo_moustache/less-custom/theme.less",
+		"/C/xampp/htdocs/wordpress_second/wp-content/themes/yoo_moustache/css/custom.css",
+		"/C/xampp/htdocs/wordpress_second/php.ini",
+		"/C/xampp/htdocs/wordpress_second/wp-content/themes/yoo_moustache/css/theme.css",
+		"/C/xampp/htdocs/moustachedemo/wp-content/themes/yoo_moustache_wp/css/theme.css",
+		"/C/xampp/htdocs/wordpress_second/wp-content/themes/AlbertoCaruanathematicsamplechildtheme/style.css",
+		"/C/xampp/htdocs/moustachedemo/wp-content/themes/yoo_moustache_wp/css/custom.css",
+		"/C/Users/Juan Sebastian/Desktop/wp-config.php",
+		"/C/Users/Juan Sebastian/Desktop/version.php",
+		"/C/xampp/htdocs/wordpress_second/wp-config.php",
+		"/C/Users/Juan Sebastian/Desktop/wp-db.php",
+		"/C/xampp/htdocs/wordpress_second/wp-content/themes/yoo_moustache/config.php",
+		"/C/xampp/htdocs/wordpress_second/wp-content/themes/yoo_moustache/less/theme.less",
+		"/C/Users/Juan Sebastian/Desktop/.htaccess.orig",
+		"/C/xampp/htdocs/wordpress_second/wp-content/themes/Touchfolio/style-touchfolio-default.less",
+		"/C/Users/Juan Sebastian/Dropbox/Radiant Reveries/radiantereveries-child/header.php",
+		"/C/Users/Juan Sebastian/Dropbox/Radiant Reveries/radiantereveries-child/functions.php",
+		"/C/Users/Juan Sebastian/Desktop/gateway_middle.svg",
+		"/C/Users/Juan Sebastian/Desktop/Laguna-Slide4.svg",
+		"/C/xampp/htdocs/wordpress_second/wp-comments-post.php",
+		"/C/Users/Juan Sebastian/Desktop/Lag-Slide4.svg",
+		"/C/Users/Juan Sebastian/Dropbox/Radiant Reveries/radiantereveries-child/style.css",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/twentyeleven/style.css",
+		"/C/Users/Juan Sebastian/AppData/Local/Temp/Temp1_manifest_v1.1.zip/manifest_v1.1/header.php",
+		"/C/Users/Juan Sebastian/AppData/Local/Temp/Temp1_manifest_v1.1.zip/manifest_v1.1/page.php",
+		"/C/Users/Juan Sebastian/AppData/Local/Temp/Temp1_manifest_v1.1.zip/manifest_v1.1/index.php",
+		"/C/Users/Juan Sebastian/AppData/Local/Temp/Temp1_manifest_v1.1.zip/manifest_v1.1/footer.php",
+		"/C/Users/Juan Sebastian/Dropbox/Radiant Reveries/adamwallace-thematicchild/style.css",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/adamwallace-thematicchild/functions.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/adamwallace-thematicchild/style.css",
+		"/C/Users/Juan Sebastian/Dropbox/Radiant Reveries/adamwallace-thematicchild/functions.php",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/The Williamsburg/HTML/wburg-residence.svg",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/The Williamsburg/HTML/wburg-building.svg",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/The Williamsburg/HTML/wburg-header.svg",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/The Williamsburg/HTML/WBurg HTML Master.htm",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/Dylan/HTML/DL-Slide1.svg",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/Buchanan/Buchanan phb.svg",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/Buchanan/HTML/Buchanan-Layer2-13B.svg",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/Buchanan/HTML/Buchanan-Layer2-PHB.svg",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/The Williamsburg/HTML/1wburg-residence.svg",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/Buchanan/HTML/Buchanan-PHB.htm",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/impression testing.html",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/Buchanan/130709 - floorplan ad/Buchanan-PH.htm",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/Buchanan/130709 - floorplan ad/Buchanan-Layer2-PHB.svg",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/work_for_craigslist.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/contact.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/chinese.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/craigslist_advertising.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/craigslist_facts.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/craigslist_technology.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/drive_digital.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/drive_digital_online_marketing.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/drive_talent.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/ex_client.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/homes_for_everyone.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/index.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/property_owner.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/real_estate_media_agency.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/who_are_you.html",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/Madison Belvedere/Belvedere/ABO Madison-Belvedere-template-nofloorplan.htm",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/drive_talent_digital_marketing.html",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/Candlebrook/Echelon Glen/HTML/Echelon Master 20130617.htm",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/Candlebrook/Vista/HTML/Vista HTML.htm",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/High Grove/SVG v2/MASTER_130611_highgrove.htm",
+		"/C/Users/Juan Sebastian/Documents/conversacion con nuci 130411",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/Autumn Hills/HTML/AutumnHills5-MASTER.htm",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/Candlebrook/Echelon Glen/HTML/Echelon Master 20130626.htm",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/Strata/HTML/str-fp-layer2C.svg",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/Strata/HTML/1str-fp-layer2C.svg",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/drive_digital_intro.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/one_of_your_clients.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/craigslistfacts.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/drivedigitalintro.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/drivetalent.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/drivetalentdigitalmarketing.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/exclient.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/homesforeveryone.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/marketingtechnology.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/oneofyourclients.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/realestatemediaagency.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/whoareyou.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/workforcl.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/craigslistadvertising.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/realestatemediaagency",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/marketingtechnology",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/homesforeveryone",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/craigslistfacts",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/workforcl",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/exclient",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/craigslistadvertising",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/whoareyou",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/oneofyourclients",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/drivedigitalintro",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/drivetalentdigitalmarketing",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/High Grove/SVG v2/130611_highgrove.htm",
+		"/C/Users/Juan Sebastian/Documents/sites/Drive Digital/index.html",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/index",
+		"/C/Users/Juan Sebastian/Documents/sites/New Drive 062013/drivetalentdigital",
+		"/C/Users/Juan Sebastian/Documents/sites/Drive Digital/javascripts/jquery.jhistory.js",
+		"/C/Users/Juan Sebastian/Documents/sites/Drive Digital/javascripts/data.js",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/DKLB/1306- CL SVG Redo/SVG Ad/master1brbam.htm",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/DKLB/1306- CL SVG Redo/SVG Ad/master0bryoga.htm",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/DKLB/1306- CL SVG Redo/SVG Ad/master2bryoga.htm",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/DKLB/1306- CL SVG Redo/SVG Ad/master2brbam.htm",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/Continental/Continental-PH1A.html",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/184 Kent/SVG 184 Kent/184knt_vector.svg",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/184 Kent/SVG 184 Kent/MASTER_184Kent_SVG.htm",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/High Grove/SVG v2/hgrove_middle.svg",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/High Grove/SVG v2/hgrove_middle2.svg",
+		"/C/Users/Juan Sebastian/Documents/sites/Drive Digital/stylesheets/styles.css",
+		"/C/Users/Juan Sebastian/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/DKLB/1306- CL SVG Redo/SVG Ad/80_dekalb_text.svg",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/DKLB/1306- CL SVG Redo/SVG Ad/80_dekalb_logoyoga.svg",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/DKLB/1306- CL SVG Redo/SVG Ad/80_dekalb_logobam.svg",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/DKLB/1306- CL SVG Redo/SVG Ad/master0brbam.htm",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/DKLB/1306- CL SVG Redo/SVG Ad/master1bryoga.htm",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/DKLB/1306- CL SVG Redo/SVG Ad/80_dekalb_textbam.svg",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/DKLB/1306- CL SVG Redo/SVG Ad/textvectorlayer.svg",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/DKLB/1306- CL SVG Redo/SVG Ad/master1.htm",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/High Grove/SVG/highgrove_3.svg",
+		"/C/Users/Juan Sebastian/Dropbox/Advertisement/Dylan/HTML/Dylan-CL-Master.htm"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mason",
+			"CDT",
+			"NST",
+			"940",
+			"955",
+			"uk-container",
+			"uk-containter",
+			"max-wi",
+			"reelthumb",
+			"define('WP_ALLOW_REPAIR', true);",
+			"define('WP_ALLOW_REPAIR', true);\n\n",
+			"select",
+			"JUAN",
+			"alejandro",
+			"http://www.villasatbattleground.com/",
+			"battle ",
+			"battle",
+			"menu",
+			"goldenrod",
+			"style=\"font-family:'ArialMT';",
+			"style=\"fill:#646569; font-family: Georgia, 'Bookman Old Style', 'Times New Roman', Times, serif; font-size:14;\"",
+			"$",
+			"font-family:'TimesNewRomanPSMT';",
+			"font-family:'ArialMT';",
+			"font-family:'Georgia';",
+			"arial",
+			"$",
+			"style=\"&st7; &st1; &st8;\"",
+			"style=\"&st7; &st1; &st13;\"",
+			"style=\"&st7; &st1; &st13;",
+			"font-family=\"'Georgia'\"",
+			"pixelsite.info/track",
+			"http://www.newyorkbg.com/",
+			"http://www.newyorkbygehry.com/",
+			"belvedere",
+			"http://www.madisonbelvedere.com",
+			"post-this",
+			"Madison-Belvedere",
+			"www.post-this.org",
+			"Belve",
+			"Madison-Belvedere",
+			"post-this.org",
+			"boundangle.com",
+			"www.halfboat.com",
+			"www.boundangle.com",
+			"cow-face",
+			"www.boundangle.com",
+			"www.boundangle.com/b12",
+			"boundangle",
+			"www.boundangle.com",
+			"http://www.boundangle.com/images",
+			"Vista-",
+			"href=\"lb-nj.com/vinj\"",
+			"http://www.halfboat.com/images/",
+			"href=\"http://www.vistanj.net\"",
+			"width=\"950",
+			"baton_rougehg_",
+			"cow-face.com/images/",
+			"baton_rougehg.com",
+			"higbaton_rougehgbr",
+			"hgrove",
+			"post-this.org",
+			"aliceblue",
+			"font-family=\"'HelveticaNeueLTStd-Th'\"",
+			"style=\"&st127; &st88; &st208; &st167;\"",
+			"font-family=\"'HelveticaNeueLTStd-Th'\"",
+			"src=\"184",
+			"font-family=\"'Calibri-Bold'\"",
+			"font-family=\"'Calibri'\"",
+			"www.dangeorge.me",
+			",",
+			"bam",
+			"=\"80_dekalb",
+			"font-family=\"'Calibri'\"",
+			"font-family=\"'Calibri-Bold'\"",
+			"font-family=\"'Calibri'\"",
+			"font-family=\"'Calibri-Bold'\"",
+			"font-family=\"'Calibri'\"",
+			"font-family=\"'Calibri-Bold'\"",
+			"font-family=\"'Calibri'\"",
+			"'",
+			"font-family=\"Geneva, sans-serif\" font-size=\"9\"",
+			"the dylan",
+			"\"'Verdana'\"",
+			"from",
+			"contin",
+			"continental",
+			"www.thecontinental.com",
+			"continenta ",
+			"continenta",
+			"continental",
+			"thecontinental.com",
+			"continental",
+			"www.thecontinental.com",
+			"gehry",
+			"newyorkbygehry.com",
+			"www.post-this.org",
+			"/fonts/",
+			"font-family=\"'ClarendonTextW01-Regula 1097896'",
+			"'http://post-this.org/images/fonts/",
+			"claren",
+			"font-family=\"'ClarendonText-Regular'",
+			"claren",
+			"url('/fonts",
+			"font-family=\"'ClarendonTextPro'\"",
+			"BEDROOM",
+			"bedroom",
+			"font-family=\"'ClarendonTextPro'\"",
+			"bed",
+			"BED",
+			"Starti",
+			"$",
+			"src=\"",
+			".gif",
+			"font-family=\"'ClarendonTextPro'\"",
+			"font-family=\"'ArialMT'\"",
+			"font-family=\"'ClarendonText-Regular'\"",
+			"font-family=\"'AkzidenzGroteskBE-Regular'\"",
+			".js",
+			"Bro",
+			"transform=\"matrix(1 0 0 1 30",
+			"229",
+			"font-family=\"'CenturyGothic'\"",
+			"font-family=\"'CenturyGothic-Italic'\"",
+			"font-family=\"'CenturyGothic'\"",
+			".png",
+			"223C4E48",
+			"font-family=\"Avenir\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"reelthumb1",
+			"SAM",
+			"ALEX",
+			"http://www.strents.com/villasatbg",
+			"#DAA520",
+			"style=\"font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;",
+			"fill=\"#646569\" font-family=\"'TimesNewRomanPSMT'\" font-size=\"14\"",
+			"font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;",
+			"font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;",
+			"font-family: Georgia, Times, \"Times New Roman\", serif;",
+			" fill=\"#646569\" font-family=\"Georgia, Bookman Old Style, Times New Roman, Times, serif\" font-size=\"14\"",
+			"fill=\"#646569\" font-family=\"Georgia, Bookman Old Style, Times New Roman, Times, serif\" font-size=\"14\"",
+			"font-family= \"Georgia, Times, 'Times New Roman', serif\"",
+			"lotuspose.org/pix",
+			"http://www.newyorkbg.com/?utm_content=ABO&utm_source=newyork.craigslist.org&utm_medium=referral&utm_campaign=referral",
+			"http://www.newyorkbygehry.com/?utm_content=2BR&utm_source=newyork.craigslist.org&utm_medium=referral&utm_campaign=referral",
+			"http://www.newyorkbygehry.com/?utm_content=1BR&utm_source=newyork.craigslist.org&utm_medium=referral&utm_campaign=referral",
+			"http://www.newyorkbygehry.com/?utm_content=Studio&utm_source=newyork.craigslist.org&utm_medium=referral&utm_campaign=referral",
+			"http://www.ic-manhattan.com/madbelv ",
+			"childspose",
+			"madbelv",
+			"www.cow-face.com",
+			"madbelv",
+			"cow-face.com",
+			"www.downward-dog.com",
+			"downward-dog",
+			"www.downward-dog.com",
+			"www.lb-nj.com/ah",
+			"downward-dog",
+			"www.cow-face.com",
+			"http://www.blamejuan.com",
+			"vst-",
+			"href=\"http://www.lb-nj.com/vinj\"",
+			"http://www.blamejuan.com/",
+			"http://www.blamejuan.com",
+			"href=\"lb-nj.com/vinj\"",
+			"width=\"949",
+			"",
+			"www.blamejuan.com/",
+			"www.blamejuan.com",
+			"batonrougehg.com",
+			"baton_rougehg",
+			"cow-face.com",
+			"mintcream",
+			"font-family=\"'Helvetica Neue', Helvetica, Arial, sans-serif\"",
+			"src=\"http://www.post-this.org/images/184",
+			"font-family=\"Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif\" font-weight=\"bold\"",
+			"font-family=\"Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif\"",
+			"www.post-this.org",
+			" ",
+			"yoga",
+			"=\"http://post-this.org/images/80_dekalb",
+			"=\"http://post-this.org/images/",
+			"font-family=\"Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif\"",
+			"font-family=\"Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif\" font-weight=\"bold\"",
+			"font-family=\"Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif\"",
+			"font-family=\"Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif\" font-weight=\"bold\"",
+			"font-family=\"Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif\"",
+			"font-family=\"Calibri, Candara, Segoe, \"Segoe UI\", Optima, Arial, sans-serif\" font-weight=\"bold\"",
+			"font-family=\"Calibri, Candara, Segoe, \"Segoe UI\", Optima, Arial, sans-serif\"",
+			"font-family=\"Geneva, sans-serif\" font-size=\"10\"",
+			"\"Verdana, Geneva, sans-serif\"",
+			"www.32and6-rentals.com",
+			"32and6-rentals.com",
+			"www.32and6-rentals.com",
+			"newyorkbg.com",
+			"www.halfboat.com",
+			"",
+			"font-family=\"'ClarendonText-Regular'",
+			"'/fonts/",
+			"font-family=\"'ClarendonTextW01-Regula 1097896'",
+			"url('http://post-this.org/images/fonts",
+			"font-family=\"'ClarendonText-Regular', Georgia, Times, 'Times New Roman', serif\"",
+			"font-family=\"'ClarendonText-Regular', Georgia, Times, 'Times New Roman', serif\" ",
+			"src=\"http://post-this.org/images/",
+			".svg",
+			"font-family=\"'ClarendonText-Regular', Georgia, Times, 'Times New Roman', serif\"",
+			"font-family=\"'AkzidenzGroteskBE-Regular', 'Century Gothic', CenturyGothic, AppleGothic, sans-serif\"",
+			"font-family=\"'ClarendonText-Regular', Georgia, Times, 'Times New Roman', serif\"",
+			"font-family=\"'AkzidenzGroteskBE-Regular', 'Century Gothic', CenturyGothic, AppleGothic, sans-serif\"",
+			"transform=\"matrix(1 0 0 1 27",
+			"225",
+			"font-family=\"'Century Gothic', CenturyGothic, AppleGothic, sans-serif\"",
+			"font-family=\"'Century Gothic', CenturyGothic, AppleGothic, sans-serif\" font-style=\"italic\"",
+			"font-family=\"'Century Gothic', CenturyGothic, AppleGothic, sans-serif\"",
+			"font-family=\"Avenir, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif\"",
+			"font-family=\"Avenir, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif\" font-weight=\"bold\"",
+			"font-family=\"Avenir, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif\"",
+			"font-family=\"Avenir\" font-weight=\"bold\"",
+			"font-family=\"Avenir\"",
+			"font-family=\"Avenir\" font-weight=\"bold\"",
+			"font-family=\"Avenir\"",
+			"font-family=\"Avenir\" font-weight=\"bold\"",
+			"font-family=\"Avenir\"",
+			"font-family=\"Avenir\" font-weight=\"bold\"",
+			"font-family=\"Avenir\"",
+			"font-family: \"Avenir\"",
+			"font-family: 'Quicksand', sans-serif",
+			"http://www.post-this.org",
+			"http://www.halfboat.com",
+			"font-family=\"'Century Gothic', CenturyGothic, AppleGothic, sans-serif\"",
+			"font-family: \"Century Gothic\", CenturyGothic, AppleGothic, sans-serif;",
+			"font-family=\"Arial, Helvetica, sans-serif\" font-style=\"italic\"",
+			"font-family=\"Arial, Helvetica, sans-serif\"",
+			"font-family=\"'Myriad Pro', 'Droid Sans', 'PT Sans Narrow', sans-serif\"",
+			"http://ec2-184-73-121-83.compute-1.amazonaws.com/wordpress/",
+			"$nextMaxId",
+			"$errorMessage",
+			"$nextMaxId",
+			"",
+			"Calibri",
+			"Calibri, 'Helvetica neue'",
+			"Calibri, \"Helvetica neue\"",
+			"Calibri, Helvetica",
+			"http://www.boundangle.com/images/harrisontest/Harrison",
+			"Calibri",
+			"helvetica",
+			"arial",
+			"",
+			"Calibri",
+			"icon_luxury_apartments_appointment.php",
+			"<img src=\"icon_150.jpg\"  alt=\"Home\" name=\"iconlogo\" border=\"0\" id=\"iconlogo\"/>",
+			"<div id=\"nav1\" style=\"margin-bottom:3px; margin-right:10px; width:100%; height:auto; float:right; text-align:right\"><a href=\"icon_apartments.php\"  style=\"text-decoration:none; font-family: 'HelveticaNeueLTStdBlkCnRg';  color:#000;\">APARTMENTS</a>&nbsp;&nbsp;<a href=\"icon_luxury_apartments_about.php\"  style=\"text-decoration:none; font-family: 'HelveticaNeueLTStdBlkCnRg'; color:#666;\">ICON NYC</a> &nbsp;&nbsp;<a href=\"icon_hells_kitchen_about.php\" style=\"text-decoration:none; font-family: 'HelveticaNeueLTStdBlkCnRg';  color:#666;\">HELL'S KITCHEN</a></div>",
+			"<div id=\"nav1\" style=\"margin-bottom:3px; display:inline; margin-right:10px; width:700px; height:auto; float:right; text-align:right\"><a href=\"icon_apartments.php\"  style=\"text-decoration:none; font-family: 'HelveticaNeueLTStdBlkCnRg';  color:#000;\">APARTMENTS</a>&nbsp;&nbsp;<a href=\"icon_luxury_apartments_about.php\"  style=\"text-decoration:none; font-family: 'HelveticaNeueLTStdBlkCnRg'; color:#666;\">ICON NYC</a> &nbsp;&nbsp;<a href=\"icon_hells_kitchen_about.php\" style=\"text-decoration:none; font-family: 'HelveticaNeueLTStdBlkCnRg';  color:#666;\">HELL'S KITCHEN</a></div>",
+			"icon_hells_kitchen_about.php",
+			"icon_hells_kitchen.php",
+			"icon_luxury_apartments_team.php",
+			"icon_luxury_apartments_gallery.php"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 87.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"luxu",
+				"nyc-rentals/icon_luxury_apartments_appointment.php"
+			],
+			[
+				"hells",
+				"nyc-rentals/icon_hells_kitchen_gallery.php"
+			],
+			[
+				"pen",
+				"nyc-rentals/penthouse1.php"
+			],
+			[
+				"index",
+				"nyc-rentals/index.php"
+			],
+			[
+				"icon_",
+				"nyc-rentals/icon_apartments.php"
+			],
+			[
+				"icon_lux",
+				"nyc-rentals/icon_luxury_apartments.php"
+			],
+			[
+				"ipad",
+				"nyc-rentals/icon_apartments_views_ipad.php"
+			],
+			[
+				"icon_hells_",
+				"nyc-rentals/icon_hells_kitchen_gallery.php"
+			],
+			[
+				"hell",
+				"nyc-rentals/icon_hells_kitchen_about.php"
+			],
+			[
+				"about",
+				"nyc-rentals/icon_hells_kitchen_about.php"
+			],
+			[
+				"apartments",
+				"nyc-rentals/icon_apartments_gallery.php"
+			],
+			[
+				"views",
+				"nyc-rentals/icon_apartments_views_ipad.php"
+			],
+			[
+				"inc",
+				"nyc-rentals/inc_btm_bar_blue.php"
+			],
+			[
+				"team",
+				"nyc-rentals/icon_luxury_apartments_team.php"
+			],
+			[
+				"luxury_apartments",
+				"nyc-rentals/icon_luxury_apartments_gallery.php"
+			],
+			[
+				"inc_btm_bar_blue.",
+				"nyc-rentals/inc_btm_bar_blue.php"
+			],
+			[
+				"icon_apartment",
+				"nyc-rentals/icon_apartments_gallery.php"
+			],
+			[
+				"views_",
+				"nyc-rentals/icon_apartments_views_ipad.php"
+			],
+			[
+				"icon_apartments_views",
+				"nyc-rentals/icon_apartments_views_horiz.php"
+			],
+			[
+				"icon_apartments_",
+				"nyc-rentals/icon_apartments_views.php"
+			],
+			[
+				"icon",
+				"nyc-rentals/icon-luxury-apartments.php"
+			],
+			[
+				"icon_apartments_views_ipad.php",
+				"nyc-rentals/icon_apartments_views_ipad.php"
+			],
+			[
+				"icon_apa",
+				"nyc-rentals/icon_apartments_views.php"
+			],
+			[
+				"inde",
+				"index_ipad.php"
+			],
+			[
+				"extra",
+				"nyc-rentals/extraheader.php"
+			],
+			[
+				"home_ipad",
+				"nyc-rentals/building_home_ipad.php"
+			],
+			[
+				"res_home",
+				"nyc-rentals/res_home_ipad.php"
+			],
+			[
+				"res",
+				"res_gallery.php"
+			],
+			[
+				"res_",
+				"res_gallery.php"
+			],
+			[
+				"inc_btm_bar_blue",
+				"inc_btm_bar_blue.php"
+			],
+			[
+				"neigh",
+				"neighborhood_home_ipad.php"
+			],
+			[
+				"building_ga",
+				"building_gallery.php"
+			],
+			[
+				"views_ver",
+				"views_vert.php"
+			],
+			[
+				"views_i",
+				"views_i.php"
+			],
+			[
+				"views.",
+				"views.php"
+			],
+			[
+				"alco",
+				"alcove_4-8A.php"
+			],
+			[
+				"resh",
+				"res_home_ipad.php"
+			],
+			[
+				"appl.html",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"add",
+				"db/migrate/20121113181738_add_city_state_to_place.rb"
+			],
+			[
+				"place",
+				"app/models/place.rb"
+			],
+			[
+				"css",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"app",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"places",
+				"app/controllers/places_controller.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"model",
+				"app/models/place.rb"
+			],
+			[
+				"migr",
+				"db/migrate/20121113181738_add_city_state_to_place.rb"
+			],
+			[
+				"appl",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"gem",
+				"Gemfile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true
+}
